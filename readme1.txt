@@ -1,2 +1,2 @@
 this is my test for git.
-git version x1.
+git version x2.
