@@ -1,4 +1,4 @@
 this is my first git file.
 used to test.
-ver 2.0
-1 place changed
+ver 3.0
+version is changed to ver 3.0.
