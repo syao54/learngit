@@ -1,3 +1,4 @@
+git is a distributed version control system.:
 this is my first git file.
 used to test.
 ver 3.0
